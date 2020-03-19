@@ -1,5 +1,7 @@
 # cors-anywhere
 
+This API enables cross-origin requests to anywhere.
+
 ## Setup on Windows/Linux Environment:
 
 ### 1. Clone this repository.
